@@ -4,7 +4,11 @@ API completa que simule a funcionalidade do Calendly com todas as lógicas e val
 API RESTful com as seguintes funcionalidades:
 
 Registrar e fazer login de usuários
+
 Conectar Google Agenda do usuário (este endpoint deve ser autenticado)
+
 Setar datas e horários disponíveis para agendamento do usuário (este endpoint deve ser autenticado)
+
 Pesquisar datas disponíveis de um usuário (este endpoint é público)
+
 Agendar um horário com um usuário (este endpoint é público)
